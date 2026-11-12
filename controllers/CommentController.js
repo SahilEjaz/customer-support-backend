@@ -1,5 +1,5 @@
 import mongoose from "mongoose"
-import Comment from "../models/comment.js"
+import Comment from "../models/Comment.js"
 import Ticket from "../models/Ticket.js"
 
 
